@@ -1,0 +1,111 @@
+Income from house property is chargeable under:
+A) Section 14
+B) Section 22
+C) Section 23
+D) Section 24
+Answer: B
+Solution: Section 22 specifically deals with income from house property. Section 14 lists heads of income, Section 23 defines annual value, Section 24 deals with deductions.
+
+Income from letting out vacant land is taxable under:
+A) Income from salaries
+B) Income from house property
+C) Income from other sources
+D) Income from business
+Answer: C
+Solution: Vacant land is not a building or house property, so rent from it falls under Income from Other Sources, not house property.
+
+Standard deduction under Section 24(a) is:
+A) 25% of net annual value
+B) 30% of net annual value
+C) 35% of net annual value
+D) 40% of net annual value
+Answer: B
+Solution: Section 24(a) allows a flat 30% deduction on net annual value as standard deduction without requiring proof of actual expenditure.
+
+Municipal taxes are deductible from:
+A) Gross annual value
+B) Net annual value
+C) Fair rent
+D) Standard rent
+Answer: A
+Solution: Municipal taxes paid by the owner are deducted from Gross Annual Value (GAV) to arrive at Net Annual Value (NAV). NAV = GAV - Municipal taxes.
+
+The annual value of a self-occupied house is:
+A) Market rent
+B) Municipal value
+C) Nil
+D) Standard rent
+Answer: C
+Solution: For a self-occupied property used for own residence, the Annual Value is taken as Nil under Section 23(2). No income is deemed to arise from it.
+
+Interest on borrowed capital for self-occupied property is deductible up to:
+A) Rs. 1,00,000
+B) Rs. 1,50,000
+C) Rs. 2,00,000
+D) Rs. 2,50,000
+Answer: C
+Solution: Under Section 24(b), interest on home loan for a self-occupied property is deductible up to Rs. 2,00,000 per year if construction is completed within 5 years.
+
+Unrealized rent received later is taxable under:
+A) Income from house property in the year received
+B) Income from other sources
+C) Capital gains
+D) Business income
+Answer: A
+Solution: As per Section 25AA, unrealized rent subsequently received is taxable as Income from House Property in the year it is actually received, after 30% deduction.
+
+Net annual value is calculated as:
+A) Gross annual value + Municipal taxes
+B) Gross annual value - Municipal taxes
+C) Fair rent + Standard rent
+D) Municipal value - Standard deduction
+Answer: B
+Solution: Net Annual Value (NAV) = Gross Annual Value (GAV) minus Municipal Taxes paid by the owner during the year.
+
+Loss from house property can be set off against:
+A) Only salary income
+B) Any head of income up to Rs. 2,00,000
+C) Only business income
+D) Cannot be set off
+Answer: B
+Solution: Loss from house property can be set off against income from any other head, but only up to Rs. 2,00,000 in a year. Remaining loss is carried forward for 8 years.
+
+Arrears of rent received are taxable after deduction of:
+A) 10% of arrears
+B) 25% of arrears
+C) 30% of arrears
+D) 40% of arrears
+Answer: C
+Solution: Under Section 25B, arrears of rent received are included in income after allowing a deduction of 30% of the arrears received. No other deductions are allowed.
+
+Under Section 24(b) interest on loan for repair of house is deductible up to:
+A) Rs. 30,000
+B) Rs. 50,000
+C) Rs. 1,50,000
+D) Rs. 2,00,000
+Answer: A
+Solution: For repair/reconstruction of self-occupied house, interest deduction is limited to Rs. 30,000 only, not Rs. 2,00,000. The higher limit applies only to acquisition/construction.
+
+The deemed owner concept applies when:
+A) Property is transferred to spouse
+B) Property is rented out
+C) Property is self-occupied
+D) Property is vacant
+Answer: A
+Solution: Under Section 27, a person who transfers a house to their spouse without adequate consideration is treated as the deemed owner and taxed on that property's income.
+
+Co-owners of a property are assessed:
+A) Jointly as a single unit
+B) Individually based on their share
+C) Only the first co-owner is assessed
+D) Not assessed separately
+Answer: B
+Solution: Each co-owner is assessed individually on their proportionate share of the income from the property. They can each claim separate deductions under Section 24.
+
+Fair rent means:
+A) Rent fixed by municipality
+B) Rent which a similar property would fetch
+C) Actual rent received
+D) Standard rent fixed by law
+Answer: B
+Solution: Fair rent is the rent which a similar property in the same locality would fetch in the open market. It is one of the factors used to determine Gross Annual Value.
